@@ -1,41 +1,58 @@
 <!--
   GitHub Profile README — Ali Raza Chaudhry (@alirazach476)
-  Special repo: alirazach476/alirazach476
+  Synced with Ali_Raza_Chaudhry_CV
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Ali+Raza+Chaudhry+%F0%9F%91%8B;Computer+Engineer+%7C+AI%2FML+Engineer;Computer+Vision+%26+Data+Science;Building+Agents%2C+RAG+%26+YOLO+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Ali+Raza+Chaudhry;AI%2FML+Engineer+%7C+Data+Scientist;Computer+Vision+%26+Generative+AI;Full+Stack+Developer" alt="Typing SVG" />
 
-### Computer Engineer · Data Scientist · AI/ML & Computer Vision
+### AI/ML Engineer · Data Scientist · Computer Vision · Generative AI · Full Stack Developer
 
-📍 **Lahore** &nbsp;·&nbsp;
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-raza-chaudhry-16a19a29b) &nbsp;·&nbsp;
+🇵🇰 **Pakistan** &nbsp;·&nbsp;
+📧 [alirazach1003@gmail.com](mailto:alirazach1003@gmail.com) &nbsp;·&nbsp;
+📱 +92 322 6085459 &nbsp;·&nbsp;
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-raza-chaudhry) &nbsp;·&nbsp;
 🐙 [GitHub](https://github.com/alirazach476)
 
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=00E676" />
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logoColor=00E676&logo=yolo" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-0A7B6F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 🧭 Professional Summary
 
-I build **end-to-end AI systems** — from computer vision pipelines and sports analytics dashboards to **LLM agents, RAG apps, and LangGraph workflows**.
+AI/ML Engineer and Data Scientist with hands-on experience in **machine learning, deep learning, computer vision, data analytics, statistical modeling, and generative AI**.
 
-- 🎯 Focus: **Computer Vision · LLM Agents · RAG · Applied ML**
-- 🏟️ Domain projects: Cricket, UFC, Football, Baseball, Golf, Driving signals
-- 🛒 Product AI: medicine detection, retail billing, vehicle damage, weapon shop billing
-- 🤖 Latest: multi-tool agents, research workflows, fraud & classification ML demos
+I build **end-to-end solutions** across data preparation, exploratory & statistical analysis, model development, evaluation, optimization, and deployment — with a focus on **scalable, production-ready AI systems** that deliver measurable business impact.
+
+**Core stack:** Python · PyTorch · TensorFlow · OpenCV · YOLO · R · SQL · LLMs · RAG · AI Agents · FastAPI · React · Next.js · Node.js
+
+---
+
+## 💼 Experience
+
+### Freelance Computer Vision Engineer · Self-Employed / Fiverr
+**2025 – Present**
+- Built **YOLO-based CV solutions** with **FastAPI** deployment
+- Developed a **golf swing tracking system** using pose estimation to analyze swing angles and tempo for coaching feedback
+
+### Embedded Systems Intern · Meta Desk Global · Lahore, Pakistan
+**July 2025 – July 2026**
+- Worked on **AI/ML, Data Science, Computer Vision, and NLP** — data preprocessing, model development, evaluation, and optimization
+- Contributed to microcontroller programming, circuit interfacing, and hardware debugging
 
 ---
 
@@ -63,79 +80,106 @@ I build **end-to-end AI systems** — from computer vision pipelines and sports 
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🤖 AI Agents · LLM · RAG · LangChain · LangGraph
+### 👁️ Computer Vision · Sports & Real-Time Analytics
+
+| Project | Highlights |
+|:--------|:-----------|
+| [**UFC-Analysis**](https://github.com/alirazach476/UFC-Analysis) | Custom **YOLOv11** fighter tracking + action detection (punches, kicks, grappling, stance) with pose estimation & React dashboard |
+| [**Cricket-AI**](https://github.com/alirazach476/Cricket-AI) | **YOLOv8 + OpenCV** player/ball detection, field mapping, shot & possession analysis, pitch maps, highlight generation |
+| [**Smart-Football-Analysis**](https://github.com/alirazach476/Smart-Football-Analysis) | Player/ball tracking, team classification, bird’s-eye view, speed, heatmaps, pass/event detection |
+| [**AI-GOLF-Skeleton**](https://github.com/alirazach476/AI-GOLF-Skeleton) | MediaPipe pose (30+ FPS), 3D avatar meshes (Trimesh/Open3D), coach-correction blending, FastAPI |
+| [**ai-baseball-swing-analyzer**](https://github.com/alirazach476/ai-baseball-swing-analyzer) | MediaPipe + OpenCV/YOLO swing performance analyzer |
+| [**Smart-Vehicle-Access-System-LPD-VMMR**](https://github.com/alirazach476/Smart-Vehicle-Access-System-LPD-VMMR) | **FYP** — license plate detection + VMMR for automated gate access · [Live demo](https://automated-gate-access.vercel.app) |
+
+### 🛒 Detection · Billing · Industry CV
+
+| Project | Highlights |
+|:--------|:-----------|
+| [**medicine-detection**](https://github.com/alirazach476/medicine-detection) | YOLOv11 + AI Smart Pharmacy billing |
+| [**RetailAI**](https://github.com/alirazach476/RetailAI) / Product scanning & billing | Vision-based retail checkout automation |
+| [**vehicle-damage**](https://github.com/alirazach476/vehicle-damage) · [**vehicle-damage-billing**](https://github.com/alirazach476/vehicle-damage-billing) | Damage localization + automated cost estimation (ONNX) |
+| [**Multi-Person-Tracking**](https://github.com/alirazach476/Multi-Person-Tracking) | YOLOv8 + DeepSORT multi-object tracking |
+| [**mechanical-tools**](https://github.com/alirazach476/mechanical-tools) | Real-time tools detection |
+| [**furniture-classification-ml**](https://github.com/alirazach476/furniture-classification-ml) | Furniture visual classification |
+| [**weapon-detection-billing**](https://github.com/alirazach476/weapon-detection-billing) | YOLOv8 + FastAPI + React billing dashboard |
+
+### 🤖 Generative AI · Agents · RAG
 
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
 | [**rag-document-qa-agent**](https://github.com/alirazach476/rag-document-qa-agent) | LangChain · FAISS · OpenAI | Grounded document Q&A with citations |
-| [**langchain-multi-tool-agent**](https://github.com/alirazach476/langchain-multi-tool-agent) | LangChain · LangGraph | Search + calculator + datetime tool loop |
+| [**langchain-multi-tool-agent**](https://github.com/alirazach476/langchain-multi-tool-agent) | LangChain · LangGraph | Multi-tool agent (search, calculator, datetime) |
 | [**langgraph-research-workflow**](https://github.com/alirazach476/langgraph-research-workflow) | LangGraph | Plan → research → critique → report |
 | [**llm-customer-support-agent**](https://github.com/alirazach476/llm-customer-support-agent) | LLM · LangGraph | Intent routing, KB replies, tickets |
 | [**multi-agent-knowledge-system**](https://github.com/alirazach476/multi-agent-knowledge-system) | Multi-agent · RAG | Supervisor + researcher + analyst + writer |
 | [**AI-PDF-RAG**](https://github.com/alirazach476/AI-PDF-RAG) | RAG | PDF/document chatbot |
 
-### 🧠 Machine Learning
+### 🧠 Machine Learning · Stats · Analytics
 
 | Project | Focus |
 |:--------|:------|
-| [**fraud-detection-ml**](https://github.com/alirazach476/fraud-detection-ml) | Credit-card fraud detection (RF + Streamlit) |
-| [**furniture-classification-ml**](https://github.com/alirazach476/furniture-classification-ml) | Multi-class furniture image classification |
+| [**fraud-detection-ml**](https://github.com/alirazach476/fraud-detection-ml) | Credit-card fraud detection (Random Forest + Streamlit) |
 | [**skin-cancer-classification-ml**](https://github.com/alirazach476/skin-cancer-classification-ml) | Educational lesion classifier *(not medical use)* |
 | [**Crop-Prediction**](https://github.com/alirazach476/Crop-Prediction) | ML crop prediction for farmers |
 | [**Time-Series-Analysis**](https://github.com/alirazach476/Time-Series-Analysis) | ARIMA/SARIMA wholesale price modeling |
-| [**Bayesian-analysis**](https://github.com/alirazach476/Bayesian-analysis) | Hierarchical Bayesian modeling |
+| [**Bayesian-analysis**](https://github.com/alirazach476/Bayesian-analysis) | Bayesian probability, posterior estimation, hypothesis testing |
+| [**weather_detection**](https://github.com/alirazach476/weather_detection) | Weather detection with CNN |
 
-### 👁️ Computer Vision · Sports · Detection
+### 🌐 Full-Stack Products (Selected Live Sites)
 
-| Project | Highlights |
-|:--------|:-----------|
-| [**Cricket-AI**](https://github.com/alirazach476/Cricket-AI) | Cricket vision & analytics |
-| [**UFC-Analysis**](https://github.com/alirazach476/UFC-Analysis) | YOLO fighter/action detection + pose dashboard |
-| [**Smart-Football-Analysis**](https://github.com/alirazach476/Smart-Football-Analysis) | Bird’s-eye tracking + match analytics API |
-| [**ai-baseball-swing-analyzer**](https://github.com/alirazach476/ai-baseball-swing-analyzer) | MediaPipe + YOLO swing performance |
-| [**AI-GOLF-Skeleton**](https://github.com/alirazach476/AI-GOLF-Skeleton) | Golf skeleton / CV engine |
-| [**vehicle-damage**](https://github.com/alirazach476/vehicle-damage) · [**vehicle-damage-billing**](https://github.com/alirazach476/vehicle-damage-billing) | YOLOv8 damage detection + ONNX billing |
-| [**medicine-detection**](https://github.com/alirazach476/medicine-detection) | YOLOv11 + smart pharmacy billing |
-| [**RetailAI**](https://github.com/alirazach476/RetailAI) | Custom YOLO retail detection & billing |
-| [**Multi-Person-Tracking**](https://github.com/alirazach476/Multi-Person-Tracking) | YOLOv8 + DeepSORT |
-| [**weapon-detection-billing**](https://github.com/alirazach476/weapon-detection-billing) | YOLOv8 + FastAPI + React dashboard |
-| [**Smart-Vehicle-Access-System-LPD-VMMR**](https://github.com/alirazach476/Smart-Vehicle-Access-System-LPD-VMMR) | License plate + make/model recognition |
-| [**ai_driving_hand_signal**](https://github.com/alirazach476/ai_driving_hand_signal) | MediaPipe hand-signal interpreter |
-
-### 🌐 Full-Stack · Products · Dashboards
-
-| Project | Type |
-|:--------|:-----|
-| [**BANK-SYSTEM-WEBSITE**](https://github.com/alirazach476/BANK-SYSTEM-WEBSITE) | Banking web app |
-| [**Lead-Engine-Pro**](https://github.com/alirazach476/Lead-Engine-Pro) | Full-stack lead generation dashboard |
-| [**real-estate-aether**](https://github.com/alirazach476/real-estate-aether) | Premium real-estate experience |
-| [**nexus-logistics**](https://github.com/alirazach476/nexus-logistics) / [**laneforge**](https://github.com/alirazach476/laneforge) | Truck dispatch platforms |
-| [**NFT**](https://github.com/alirazach476/NFT) | NFT marketplace |
-| [**ResumeAnalyze**](https://github.com/alirazach476/ResumeAnalyze) | AI resume critique & ATS gap analysis |
-| [**Optical-Character-Recognition**](https://github.com/alirazach476/Optical-Character-Recognition) | Region OCR on PDFs (PDF.js + Tesseract) |
+| Product | Stack | Link |
+|:--------|:------|:-----|
+| Crown and Dial | React | [crown-and-dial.netlify.app](https://crown-and-dial.netlify.app) |
+| Fine Crafted Structures | Next.js / React | [constractioncompany.netlify.app](https://constractioncompany.netlify.app) · [finecraftedstructures.netlify.app](https://finecraftedstructures.netlify.app) |
+| Healthy Start NEMT | WordPress/PHP | [healthystartnc.com](https://healthystartnc.com) |
+| Nyuton Enterprises | WordPress/PHP | [nyutonenterprises.com](https://nyutonenterprises.com) |
+| Stepping Stones CRI | React | [steppingstoness.netlify.app](https://steppingstoness.netlify.app) |
+| Revara Real Estate | Next.js | [hotel-web-chi-tan.vercel.app](https://hotel-web-chi-tan.vercel.app) |
+| NFT Marketplace | React | [nftmarketplaece.netlify.app](https://nftmarketplaece.netlify.app) |
+| Clipzy | Next.js · Node · AI APIs | [clipzy.xynovix.com](https://clipzy.xynovix.com) |
+| FamLink | Family care platform | [famlink.care](https://famlink.care) |
+| Luxury Watch Store | Next.js · React | [watchs-gray.vercel.app](https://watchs-gray.vercel.app) |
+| Smart Vehicle Gate (FYP) | CV + Web | [automated-gate-access.vercel.app](https://automated-gate-access.vercel.app) |
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Technical Skills
 
-<div align="center">
-
-| Area | Tools |
-|:-----|:------|
-| **Languages** | Python · TypeScript · JavaScript · R · SQL · PHP |
-| **AI / ML** | Scikit-learn · PyTorch · MediaPipe · OpenCV · YOLO · FAISS · Streamlit |
-| **Agents** | LangChain · LangGraph · OpenAI · RAG pipelines |
-| **Frontend** | React · Vite · Tailwind · Three.js / R3F · GSAP |
-| **Backend** | FastAPI · Node · Laravel · Symfony · Supabase |
-| **Data** | Pandas · Bayesian models · Time series (ARIMA/SARIMA) |
-
-</div>
+| Area | Skills |
+|:-----|:-------|
+| **Computer Vision** | OpenCV, MediaPipe, YOLOv8/v11, RF-DETR, Object Detection, Classification, Segmentation, MOT, OCR, Real-Time Pipelines |
+| **Machine Learning** | Supervised/Unsupervised, RF, XGBoost, LightGBM, SVM, KNN, Ensemble, PCA, Feature Selection, Model Evaluation |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, CNNs, RNNs, LSTMs, GANs, Transfer Learning, Attention, Transformers |
+| **Generative AI & LLMs** | Prompt Engineering, RAG, Vector DBs, Embeddings, AI Agents, LangChain, LangGraph, Hugging Face, Fine-Tuning |
+| **Data Science** | EDA, Cleaning, Feature Engineering, Predictive Analytics, Visualization, Experiment Tracking |
+| **Statistics** | Hypothesis Testing, ANOVA, Bayesian Analysis, A/B Testing, Regression, Confidence Intervals |
+| **Analytics Tools** | R, RStudio, Stata, Jupyter, Power BI, Tableau, Excel |
+| **Python Libraries** | NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly |
+| **Backend** | Python 3.9+, FastAPI, Node.js, Express.js, REST APIs, Webhooks |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind, Bootstrap |
+| **Databases** | SQL, PostgreSQL, SQL Server, MySQL, MongoDB |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, Linux, Git, GitHub |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,react,ts,js,nodejs,fastapi,postgres,docker,git,vscode&perline=14" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,aws,linux,git,vscode&perline=16" alt="Skill icons" />
 </p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Engineering**  
+COMSATS University, Lahore · CGPA **2.81 / 4.00** · *June 2026*
+
+---
+
+## 🏅 Certifications
+
+- **Python Machine Learning** — Udemy  
+- **OpenCV Bootcamp** — OpenCV University  
+- **Artificial Intelligence** — UniAthena  
 
 ---
 
@@ -153,13 +197,14 @@ I build **end-to-end AI systems** — from computer vision pipelines and sports 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-chaudhry-16a19a29b)
+[![Email](https://img.shields.io/badge/alirazach1003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirazach1003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-chaudhry)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alirazach476)
-[![Portfolio Repos](https://img.shields.io/badge/77+_Public_Repos-38BDF8?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/alirazach476?tab=repositories)
+[![Phone](https://img.shields.io/badge/%2B92%20322%206085459-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923226085459)
 
 <br/>
 
-⭐ **Open to collaborations** in Computer Vision, Agentic AI, RAG systems, and applied ML products.
+⭐ Open to roles and collaborations in **AI/ML Engineering, Computer Vision, Generative AI / Agents, and Full-Stack AI products**.
 
 <img src="https://komarev.com/ghpvc/?username=alirazach476&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -169,8 +214,8 @@ I build **end-to-end AI systems** — from computer vision pipelines and sports 
 
 <div align="center">
 
-### ✨ “Ship models that see. Ship agents that reason.”
+### ✨ Building scalable, data-driven, production-ready AI systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0EA5E9,100:22D3EE&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0EA5E9,100:22D3EE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
