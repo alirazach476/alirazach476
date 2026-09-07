@@ -171,7 +171,7 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 ## 🎓 Education
 
 **Bachelor of Computer Engineering**  
-COMSATS University, Lahore · CGPA **2.81 / 4.00** · *June 2026*
+COMSATS University, Lahore  · *June 2026*
 
 ---
 
