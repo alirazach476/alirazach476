@@ -175,11 +175,41 @@ COMSATS University, Lahore  · *June 2026*
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
-- **Python Machine Learning** — Udemy  
-- **OpenCV Bootcamp** — OpenCV University  
-- **Artificial Intelligence** — UniAthena  
+| Certificate | Issuer | Date | Credential |
+|:------------|:-------|:-----|:-----------|
+| **OpenCV Bootcamp** — Certificate of Excellence (100%) | OpenCV University | Jul 22, 2025 | `86ba3e2389fc46b9a4cbc37707f6ac20` |
+| **Machine Learning** | Coursera · DeepLearning.AI (Andrew Ng) | Aug 21, 2025 | [Verify](https://coursera.org/verify/4F7H2K9Q8D3J) · `4F7H2K9Q8D3J` |
+| **Python Automation** | Google Career Certificates | Aug 24, 2026 | `GC-PY-2026-45872` |
+| **Professional Certificate in Data Science** | Global Skills Academy | Aug 24, 2026 | `GSA-DS-2026-0847` |
+| **AI Agents: Build, Deploy and Automate** | DeepLearn Academy | Aug 24, 2026 | `DLA-2026-4587` · Certified AI Agents Specialist |
+| **Basics of Machine Learning Algorithms** | UniAthena · CIQ UK | Aug 26, 2026 | Blockchain `6543-2617-5500` |
+| **Basics of Artificial Intelligence: Learning Models** | UniAthena · CIQ UK | Aug 26, 2026 | Blockchain `7015-0471-6653` |
+| **Basics of Python** | UniAthena · CIQ UK | Aug 26, 2026 | Blockchain `8512-3190-0961` |
+
+### 📜 Certificate Gallery
+
+<p align="center">
+  <img src="certificates/opencv-bootcamp.png" width="48%" alt="OpenCV Bootcamp Certificate of Excellence" />
+  &nbsp;
+  <img src="certificates/coursera-ml-deeplearningai.png" width="48%" alt="Coursera Machine Learning — DeepLearning.AI" />
+</p>
+<p align="center">
+  <img src="certificates/google-python-automation.png" width="48%" alt="Google Career Certificate — Python Automation" />
+  &nbsp;
+  <img src="certificates/gsa-data-science.png" width="48%" alt="Global Skills Academy — Data Science" />
+</p>
+<p align="center">
+  <img src="certificates/deeplearn-ai-agents.png" width="48%" alt="DeepLearn Academy — AI Agents" />
+  &nbsp;
+  <img src="certificates/uniathena-ml-algorithms.png" width="48%" alt="UniAthena — Machine Learning Algorithms" />
+</p>
+<p align="center">
+  <img src="certificates/uniathena-ai-models.png" width="48%" alt="UniAthena — Artificial Intelligence" />
+  &nbsp;
+  <img src="certificates/uniathena-python.png" width="48%" alt="UniAthena — Basics of Python" />
+</p>
 
 ---
 
