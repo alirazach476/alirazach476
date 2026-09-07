@@ -12,7 +12,7 @@
 🇵🇰 **Pakistan** &nbsp;·&nbsp;
 📧 [alirazach1003@gmail.com](mailto:alirazach1003@gmail.com) &nbsp;·&nbsp;
 📱 +92 322 6085459 &nbsp;·&nbsp;
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-raza-chaudhry) &nbsp;·&nbsp;
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-raza-chaudhry-16a19a29b) &nbsp;·&nbsp;
 🐙 [GitHub](https://github.com/alirazach476)
 
 <br/>
@@ -232,7 +232,7 @@ COMSATS University, Lahore  · *June 2026*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/alirazach1003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirazach1003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-chaudhry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-chaudhry-16a19a29b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alirazach476)
 [![Phone](https://img.shields.io/badge/%2B92%20322%206085459-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923226085459)
 
