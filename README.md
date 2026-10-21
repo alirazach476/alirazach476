@@ -53,8 +53,8 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 - Built **YOLO-based CV solutions** with **FastAPI** deployment
 - Developed a **golf swing tracking system** using pose estimation to analyze swing angles and tempo for coaching feedback
 
-### Embedded Systems Intern · Meta Desk Global · Lahore, Pakistan
-**July 2025 – July 2026**
+### AI Engineering Intern · MetaDesk Global · Lahore, Pakistan
+**April 2026 – September 2026**
 - Worked on **AI/ML, Data Science, Computer Vision, and NLP** — data preprocessing, model development, evaluation, and optimization
 - Contributed to microcontroller programming, circuit interfacing, and hardware debugging
 
