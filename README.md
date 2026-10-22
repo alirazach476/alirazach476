@@ -131,10 +131,25 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 | [**Bayesian-analysis**](https://github.com/alirazach476/Bayesian-analysis) | Bayesian probability, posterior estimation, hypothesis testing |
 | [**weather_detection**](https://github.com/alirazach476/weather_detection) | Weather detection with CNN |
 
+### 📊 Data Science · Data Engineering (Live BI Dashboards)
+
+| Project | Focus | Live |
+|:--------|:------|:-----|
+| **RideFlow Analytics** | Ride warehouse BI — revenue, cities, surge, cancellations, anomalies | [Live](https://rideflow-analytics-eight.vercel.app/) |
+| **NovaBank Transaction Analytics** | Banking BI — channels, segments, branches, anomaly review | [Live](https://banking-transaction-analytics.vercel.app/dashboard) |
+| **Pakistan E-commerce Analytics** | E-commerce BI (PKR) — revenue, orders, AOV, logistics, returns | [Live](https://pakistanecommerce.vercel.app/) |
+| **AI Market Price Intelligence** | Market pricing & competitive signal analysis | [Live](https://ai-market-price-analysis.vercel.app/) |
+| **Chicken Price Time Series BI** | ARIMA/SARIMA forecasting with holdout diagnostics | [Live](https://time-series-analysis-zeta.vercel.app/) |
+| **Bayesian Military Aid Analysis** | Hierarchical Bayes / Gibbs sampling BI dashboard | [Live](https://bayesian-analysis.vercel.app/) |
+| **Bayesian Insurance Cost BI** | Bayesian regression on insurance charges | [Live](https://real-world-dataset-bayesian-analysi.vercel.app/) |
+| **DDoS Detection BI** | ML/DL SDN flow attack detection leaderboard | [Live](https://ddos-detection-bi.vercel.app/) |
+
 ### 🌐 Full-Stack Products (Selected Live Sites)
 
 | Product | Stack | Link |
 |:--------|:------|:-----|
+| Techlo Agency | Agency site · React / Netlify | [techloagenccy.netlify.app](https://techloagenccy.netlify.app/) |
+| Westora Style | E-commerce · Fashion | [westorastyle.com](https://westorastyle.com) |
 | Crown and Dial | React | [crown-and-dial.netlify.app](https://crown-and-dial.netlify.app) |
 | Fine Crafted Structures | Next.js / React | [constractioncompany.netlify.app](https://constractioncompany.netlify.app) · [finecraftedstructures.netlify.app](https://finecraftedstructures.netlify.app) |
 | Healthy Start NEMT | WordPress/PHP | [healthystartnc.com](https://healthystartnc.com) |
