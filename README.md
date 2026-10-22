@@ -198,6 +198,8 @@ COMSATS University, Lahore  · *June 2026*
 
 | Certificate | Issuer | Date | Credential |
 |:------------|:-------|:-----|:-----------|
+| **TensorFlow Keras Bootcamp** — Certificate of Excellence (100%) | OpenCV University | Oct 17, 2026 | `c65925e12454419ebe3d99cd4ec60087` |
+| **Basics of Data Science** | UniAthena · CIQ UK | Oct 2, 2026 | Blockchain `2657-5786-4994` |
 | **OpenCV Bootcamp** — Certificate of Excellence (100%) | OpenCV University | Jul 22, 2025 | `86ba3e2389fc46b9a4cbc37707f6ac20` |
 | **Machine Learning** | Coursera · DeepLearning.AI (Andrew Ng) | Aug 21, 2025 | [Verify](https://coursera.org/verify/4F7H2K9Q8D3J) · `4F7H2K9Q8D3J` |
 | **Python Automation** | Google Career Certificates | Aug 24, 2026 | `GC-PY-2026-45872` |
@@ -209,6 +211,11 @@ COMSATS University, Lahore  · *June 2026*
 
 ### 📜 Certificate Gallery
 
+<p align="center">
+  <img src="certificates/opencv-tensorflow-keras.png" width="48%" alt="TensorFlow Keras Bootcamp — Certificate of Excellence" />
+  &nbsp;
+  <img src="certificates/uniathena-data-science.png" width="48%" alt="UniAthena — Basics of Data Science" />
+</p>
 <p align="center">
   <img src="certificates/opencv-bootcamp.png" width="48%" alt="OpenCV Bootcamp Certificate of Excellence" />
   &nbsp;
