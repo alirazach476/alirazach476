@@ -48,7 +48,7 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 
 ## 💼 Experience
 
-### Freelance AI/ML Engineer · Self-Employed / Fiverr
+### AI/ML Engineer · Self-Employed / Fiverr
 **2025 – Present** · Remote · USA & Thailand
 - Built **SwingLab**, a golf-swing analysis platform: MediaPipe pose estimation, 33-joint skeleton JSON, swing key-frame metrics, annotated video, coach charts, and a web dashboard
 - Delivered ARIMA/SARIMA forecasting and Bayesian regression analyses in R for client projects
