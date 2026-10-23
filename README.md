@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Ali+Raza+Chaudhry;AI%2FML+Engineer+%7C+Data+Scientist;Computer+Vision+%26+Generative+AI;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Ali+Raza+Chaudhry;AI%2FML+Engineer+%7C+Data+Scientist+%7C+Software+Engineer" alt="Typing SVG" />
 
-### AI/ML Engineer · Data Scientist · Computer Vision · Generative AI · Full Stack Developer
+### AI/ML Engineer · Data Scientist · Software Engineer
 
 🇵🇰 **Pakistan** &nbsp;·&nbsp;
 📧 [alirazach1003@gmail.com](mailto:alirazach1003@gmail.com) &nbsp;·&nbsp;
@@ -40,7 +40,7 @@
 
 AI/ML Engineer and Data Scientist with hands-on experience in **machine learning, deep learning, computer vision, data analytics, statistical modeling, and generative AI**.
 
-I build **end-to-end solutions** across data preparation, exploratory & statistical analysis, model development, evaluation, optimization, and deployment — with a focus on **scalable, production-ready AI systems** that deliver measurable business impact.
+I build **end-to-end solutions** across data preparation, exploratory & statistical analysis, model development, evaluation, optimization, and deployment — with a focus on **deployed, demo-ready systems** that deliver measurable business impact.
 
 **Core stack:** Python · PyTorch · TensorFlow · OpenCV · YOLO · R · SQL · LLMs · RAG · AI Agents · FastAPI · React · Next.js · Node.js
 
@@ -48,15 +48,16 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 
 ## 💼 Experience
 
-### Freelance Computer Vision Engineer · Self-Employed / Fiverr
-**2025 – Present**
-- Built **YOLO-based CV solutions** with **FastAPI** deployment
-- Developed a **golf swing tracking system** using pose estimation to analyze swing angles and tempo for coaching feedback
+### Freelance AI/ML Engineer · Self-Employed / Fiverr
+**2025 – Present** · Remote · USA & Thailand
+- Built **SwingLab**, a golf-swing analysis platform: MediaPipe pose estimation, 33-joint skeleton JSON, swing key-frame metrics, annotated video, coach charts, and a web dashboard
+- Delivered ARIMA/SARIMA forecasting and Bayesian regression analyses in R for client projects
 
 ### AI Engineering Intern · MetaDesk Global · Lahore, Pakistan
 **April 2026 – September 2026**
-- Worked on **AI/ML, Data Science, Computer Vision, and NLP** — data preprocessing, model development, evaluation, and optimization
-- Contributed to microcontroller programming, circuit interfacing, and hardware debugging
+- Built a **Cricket Match Analytics System**: YOLOv8 + OpenCV player/ball tracking, pitch mapping, and frame-based ball-speed estimation on broadcast footage
+- Deployed live inference on Orange Pi with a USB camera; engineered a Python pipeline (Pandas, PostgreSQL) and a React + FastAPI dashboard for delivery stats, speed trends, and live field overlay
+- Supported microcontroller programming, sensor/camera interfacing, and hardware debugging
 
 ---
 
@@ -170,27 +171,27 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 |:-----|:-------|
 | **Computer Vision** | OpenCV, MediaPipe, YOLOv8/v11, RF-DETR, Object Detection, Classification, Segmentation, MOT, OCR, Real-Time Pipelines |
 | **Machine Learning** | Supervised/Unsupervised, RF, XGBoost, LightGBM, SVM, KNN, Ensemble, PCA, Feature Selection, Model Evaluation |
-| **Deep Learning** | PyTorch, TensorFlow, Keras, CNNs, RNNs, LSTMs, GANs, Transfer Learning, Attention, Transformers |
-| **Generative AI & LLMs** | Prompt Engineering, RAG, Vector DBs, Embeddings, AI Agents, LangChain, LangGraph, Hugging Face, Fine-Tuning |
-| **Data Science** | EDA, Cleaning, Feature Engineering, Predictive Analytics, Visualization, Experiment Tracking |
-| **Statistics** | Hypothesis Testing, ANOVA, Bayesian Analysis, A/B Testing, Regression, Confidence Intervals |
-| **Analytics Tools** | R, RStudio, Stata, Jupyter, Power BI, Tableau, Excel |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, CNNs, Transfer Learning, Model Training, Model Deployment |
+| **Generative AI & LLMs** | Prompt Engineering, RAG, Embeddings, FAISS, AI Agents, LangChain, LangGraph, Streamlit, Groq |
+| **Data Science** | EDA, Cleaning, Feature Engineering, Predictive Analytics, Visualization |
+| **Statistics** | Hypothesis Testing, ANOVA, Bayesian Analysis, A/B Testing, Regression, Time Series, Forecasting |
+| **Analytics Tools** | R, RStudio, Jupyter, Excel |
 | **Python Libraries** | NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly |
-| **Backend** | Python 3.9+, FastAPI, Node.js, Express.js, REST APIs, Webhooks |
-| **Frontend** | React, Next.js, HTML, CSS, Tailwind, Bootstrap |
-| **Databases** | SQL, PostgreSQL, SQL Server, MySQL, MongoDB |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, Linux, Git, GitHub |
+| **Backend** | Python, FastAPI, Node.js, REST APIs |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind, TypeScript |
+| **Databases** | SQL, PostgreSQL |
+| **Tools & Deploy** | Git, Docker, Linux (basic), Jupyter, Vercel, Netlify, Streamlit Cloud |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,aws,linux,git,vscode&perline=16" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,react,nextjs,nodejs,fastapi,postgres,docker,linux,git,vercel,vscode&perline=16" alt="Skill icons" />
 </p>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Engineering**  
-COMSATS University, Lahore  · *June 2026*
+**BS Computer Engineering, 2022 – 2026**  
+COMSATS University, Lahore
 
 ---
 
@@ -270,7 +271,7 @@ COMSATS University, Lahore  · *June 2026*
 
 <div align="center">
 
-### ✨ Building scalable, data-driven, production-ready AI systems
+### ✨ Building deployed, data-driven, demo-ready AI systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0EA5E9,100:22D3EE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer" />
 
