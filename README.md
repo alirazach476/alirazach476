@@ -136,6 +136,10 @@ I build **end-to-end solutions** across data preparation, exploratory & statisti
 
 | Project | Focus | Live |
 |:--------|:------|:-----|
+| [**Olympics Analysis**](https://github.com/alirazach476/OlympicsAnaylsis) | Every Summer & Winter Games 1960–2026 — Olympedia scraping into a bronze/silver/gold warehouse, 100+ endpoint FastAPI, and a React site themed per edition | [Live](https://olympicsanaylsis.vercel.app/) |
+| [**ICC Cricket Analytics**](https://github.com/alirazach476/icc-cricket-analytics) | World Cups, Champions Trophy, Test Championship & Asia Cup — scraped DuckDB lakehouse with dbt, win/score ML models, and a React match centre | [Live](https://icc-cricket-analytics.vercel.app/) |
+| [**Football Analytics Platform (FIFA)**](https://github.com/alirazach476/football-analytics) | World Cup, Euro, Copa América & Nations League — 6 open sources, PostgreSQL + dbt, leakage-free ML, and an 85-chart React dashboard | [Live](https://football-analytics-xi.vercel.app/) |
+| [**WWE Analytics**](https://github.com/alirazach476/wwe_anaylsis) | WWE Premium Live Events 2000–2027 — MediaWiki-scraped warehouse, FastAPI, and a React + Plotly dashboard with event-logo theming | [Live](https://wwe-ple-analytics.vercel.app/) |
 | **RideFlow Analytics** | Ride warehouse BI — revenue, cities, surge, cancellations, anomalies | [Live](https://rideflow-analytics-eight.vercel.app/) |
 | **NovaBank Transaction Analytics** | Banking BI — channels, segments, branches, anomaly review | [Live](https://banking-transaction-analytics.vercel.app/dashboard) |
 | **Pakistan E-commerce Analytics** | E-commerce BI (PKR) — revenue, orders, AOV, logistics, returns | [Live](https://pakistanecommerce.vercel.app/) |
